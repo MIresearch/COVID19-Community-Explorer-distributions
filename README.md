@@ -27,18 +27,17 @@ src="https://c.statcounter.com/12481025/0/74862afb/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-<meta name="twitter:title" content="Community Explorer">  
-<meta name="twitter:description" content="The Community Explorer sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles.">
+<meta name="twitter:title" content="COVID-19 Explorer">  
+<meta name="twitter:description" content="The COVID-19 Community Explorer provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features.">
 <meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
-<meta property="og:title" content="Community Explorer">
-<meta property="og:description" content="The Community Explorer sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles. ;">
+<meta property="og:title" content="COVID-19 Explorer">
+<meta property="og:description" content="The COVID-19 Community Explorer provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features">
 <meta property="og:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta property="og:image:url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta property="og:image:secure_url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
-<meta property="og:url" content="https://miresearch.github.io/Community-Explorer/">
-
+<meta property="og:url" content="https://miresearch.github.io/COVID19-Community-Explorer/">
 </head>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
