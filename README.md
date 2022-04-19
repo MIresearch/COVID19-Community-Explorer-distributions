@@ -42,12 +42,10 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> The Community Explorer (17 profiles based on 751 factors) **beta version**</b> </H2> <Hr>
+<H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
 
-The <b>Community Explorer</b> groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than when using few indicators at one time. 
-  
-More specifically, we cluster the 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties into 17 population profiles using machine learning techniques. The dot-plots below show the distributions of the vaccination, the booster, the fatality rates and of the cases across the 17 profiles.
-<br> 
+The <b>COVID-19 Community Explorer</b> provides a simple way to explore geographic clusters of county-communities affected by the pandemic and their socioeconomic, demographic, and health-related features. more detail on the <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> The Community Explorer </a> <br>
+
 
 <H2>Interactive Distributions across Profiles   (<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank">  Back to Map)</a> </H2>   
   
