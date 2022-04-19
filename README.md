@@ -62,9 +62,9 @@ The map below shows the location of these <b>8 community profiles</B>:
 
 
 
-<H2>Interactive Map</H2>
+<H2>Interactive Distributions across Profiles</H2>
 
-<center><iframe src="https://public.tableau.com/views/Community_Explorer/Map?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/Covid-19-explorer-distributions/Dashboard2?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
 
 <br>
 <br>
