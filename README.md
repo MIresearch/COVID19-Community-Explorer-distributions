@@ -44,7 +44,7 @@ alt="Web Analytics"></a></div></noscript>
 
 <H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
 
-The <b>COVID-19 Community Explorer</b> provides a simple way to explore geographic clusters of county-communities affected by the pandemic and their socioeconomic, demographic, and health-related features. more detail on the <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> The Community Explorer </a> <br>
+The <b>COVID-19 Community Explorer</b> provides a simple way to explore geographic clusters of county-communities affected by the pandemic and their socioeconomic, demographic, and health-related features. More details on <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> the Community Explorer </a> <br>
 
 
 <H2>Interactive Distributions across Profiles   (<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank">  Back to Map)</a> </H2>   
