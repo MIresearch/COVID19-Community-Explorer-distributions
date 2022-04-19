@@ -50,7 +50,7 @@ The <b>Community Explorer</b> groups a wide variety of data—from economic and 
 More specifically, we cluster the 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties into 17 population profiles using machine learning techniques. The dot-plots below show the distributions of the vaccination, the booster, the fatality rates and of the cases across the 17 profiles.
 <br> 
 
-<H2>Interactive Distributions across Profiles   (<a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank" Back to Map </a>)</H2>   
+<H2>Interactive Distributions across Profiles   (<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank">  Back to Map)</a> </H2>   
   
 
 <center><iframe src="https://public.tableau.com/views/Covid-19-explorer-distributions/Dashboard2?:showVizHome=no&:embed=true" width="70%" height="700" frameborder="0"></iframe></center>
