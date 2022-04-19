@@ -43,24 +43,12 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> The Community Explorer (8 profiles based on 26 factors) <br>( <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> link to 17 profiles based on 751 factors </a>)</b> </H2> <Hr>
+<H2><b> The Community Explorer (17 profiles based on 751 factors) **beta version**</b> </H2> <Hr>
 
-The <b>Community Explorer</b> investigates US health disparities by first understanding populations' specificities then looking at their health
-profile. It identifies the different populations or communities based on their behavioral, demographic, economic, and social profiles. Then it links these profiles to chronic disease prevalence rates. 
-
-The eight community profiles were identified by using Explanatory Factor Analysis and machine learning techniques, to sort 26 behavioral, demographic, economic, and social factors across 3,192 US counties. 
-
-The map below shows the location of these <b>8 community profiles</B>: 
-<br><b>1</b> the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
-<br><b>2</b> highly educated, economically prosperous, mostly White counties in metro areas. (25% US population)
-<br><b>3</b> the largest Black population, whose income is the lowest income of all the profiles. These counties are primarily concentrated in the south-east. (12% US population)
-<br><b>4</b> the largest white population with the lowest income of all the profiles. It encompasses mostly rural counties in the East North Central, and Northeast regions. (7% US population)
-<br><b>5</b> predominantly White counties whose economy depends mostly on manufacturing and are located around the Midwest region. (6% US population) 
-<br><b>6</b> the youngest cohort of the profiles, with the largest Hispanic population, the least education level, access to healthy food, and health insurance. The counties are concentrated in the West and West South-Central regions.  (5% US population)
-<br><b>7</b> the oldest cohort of the profiles and consists of mostly White, elderly retirement communities. (4% US population)
-<br><b>8</b> the most rural cohort made of an older White population with the most limited access to healthy food of all the profiles. The counties are mostly in the north part of the West, Midwest, and Northeast regions. (3% US population)<br>
-
-
+The <b>Community Explorer</b> groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than when using few indicators at one time. 
+  
+More specifically, we cluster the 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties into 17 population profiles using machine learning techniques. The dot-plots below show the distributions of the vaccination, the booster, the fatality rates and of the cases across the 17 profiles.
+<br> 
 
 <H2>Interactive Distributions across Profiles</H2>
 
@@ -69,34 +57,46 @@ The map below shows the location of these <b>8 community profiles</B>:
 <br>
 <br>
 <Bh>
+<br>
+<b>These profiles can be summarized as follows:</b>
+<br>
+<br><b>Mainstream America</B> captures 74% of the US population and encompasses Urban Core counties and Suburban and Small Metro counties (819 counties).
+<br><b>1 =></b> The most ethnically diverse profile with the highest income level. It is a highly educated cohort that resides in large metro areas 26% of the US population)
+<br><b>2 =></b> Mainly includes less populous suburban and small Metro counties which are not as economically prosperous as the other mainstream America counties (18%)
+<br><b>3 =></b> Includes affluent and more populous suburban and small metro counties with at least 1 million residents (16%)
+<br><b>4 =></b> Capture the middle-class populations that reside in large- to medium-sized Suburban and Small Metro counties (14%)
+<br>
+<br><b>Industry-driven America</B> captures 17% of the US population and encompasses counties concentrated in one industry which shapes all aspects of their population’s profile (1507 counties).
+<br><b>5 =></b> College towns (5.4%)
+<br><b>6 =></b> Manufacturing, transportation, equipment and machinery in the Midwest (5.2%) 
+<br><b>7 =></b> Low-wage manufacturing and chemical industries in the South (4.9%)
+<br><b>11 =></b> Agricultural communities (1.2%)
+<br><b>15 =></b> Agriculture on the part of the Great Plains (0.3%)
+<br>
+<br><b>Graying America</B> captures 5.1% of the US population and encompasses counties with with the highest concentration of 65 years and up populaton. (378 counties)
+<br><b>8 =></b> Decent retiree communities (4.5%) 
+<br><b>13 =></b> Lonely seniors with the highest disability rate (0.6%)
+<br>
+<br><b>Impoverished America</B> captures 3.5% of the US population and encompasses counties with the lowest levels of income. (424 counties)
+<br><b>9 =></b> Extreme poverty on the U.S. southern border (1.4%) 
+<br><b>10 =></b> Persistent poverty among Black or African American populations (1.3%)
+<br><b>12 =></b> Non-Hispanic White poverty in the Upper South (0.7%) 
+<br><b>16 =></b> Extreme poverty in American Indian Reservation regions (0.1%)
+<br>
+<br><b>Noncontiguous America</B> captures 0.42% of the US population and encompasses all Hawaiian counties and nine of Alaskan counties (34 counties).
+<br><b>14 =></b> Aloha State (0.4%) 
+<br><b>17 =></b> The largest economic gaps between White and Alaska Natives(0.02%)
+<br><br>
+<Bh>
 <b>Data</b><br>
-BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Services, Robert Wood Johnson Foundation's County Health Rankings, United Health Foundation's America's Health Rankings, Census Bureau's American Community Survey, Bureau of Labor Statistics, Department of Agriculture. <br>
+Census Bureau's American Community Survey. <br>
 <br> <br>
-<b>List of Health Conditions</b><br>
-•	Adult Obesity: Adult obesity prevalence (%)<br>
-•	Adult Smoking: Rate of smoking adults (%)<br>
-•	Air Pollution Levels: Average daily density of fine particulate matter in micrograms per cubic meter (PM2.5)<br>
-•	Asthma Among 65 and Older: Asthma prevalence (%) among 65 and older<br>
-•	Chronic Kidney Disease Among 65 and Older: Chronic Kidney Disease prevalence (%) among 65 and older<br>
-•	Diabetes Among 65 and Older: Diabetes prevalence (%) among 65 and older<br>
-•	Diabetes Prevalence: Diabetes prevalence (%) •	Alzheimer's Disease and Dementia: Alzheimer's Disease and Dementia prevalence (%) <br>
-•	Excessive Drinking: Percentage of adults reporting binge or heavy drinking<br>
-•	Food Environment Index: Index of factors that contribute to a healthy food environment<br>
-•	Food Insecurity Prevalence: Percentage of population who lack adequate access to food<br>
-•	Frequent Mental Distress: Percentage of adults reporting 14 or more days of poor mental health per month<br>
-•	Frequent Physical Distress: Percentage of adults reporting 14 or more days of poor physical health per month<br>
-•	Heart Failure Among 65 and Older: Heart Failure prevalence (%) among 65 and older<br>
-•	Hypertension Among 65 and Older: Hypertension prevalence (%) among 65 and older <br>
-•	Ischemic Heart Disease among 65 and Older: Ischemic Heart Disease prevalence (%) among 65 and older<br>
-•	Limited Access to Healthy Foods: Percentage of population who are low-income and do not live close to a grocery store<br>
-•	Physical Inactivity: Percentage of adults age 20 and over reporting no leisure-time physical activity<br>
-•	Poor Mental Health Days: Average number of mentally unhealthy days (#)<br>
-•	Social Association Rate: Number of membership associations per 10,000 population<br>
-•	Stroke Among 65 and Older: Stroke prevalence (%) among 65 and older<br>
+
 
 <br><br>
 <H2>Related Projects </H2>
 -<a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> The Community Explorer ** beta version ** (17 profiles based on 751 factors) </a> <br>
+-<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> The Community Explorer  (8 profiles based on 26 factors) </a> <br>
 -<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
 -<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"> COVID-19 Community Explorer (17 Profiles)</a> <br>
 -<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer (8 Profiles)</a> <br>
@@ -104,5 +104,4 @@ BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Servi
 <Br>
   
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
-
 
