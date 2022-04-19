@@ -29,14 +29,14 @@ alt="Web Analytics"></a></div></noscript>
 
 <meta name="twitter:title" content="COVID-19 Explorer">  
 <meta name="twitter:description" content="The COVID-19 Community Explorer provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features.">
-<meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
+<meta name="twitter:image" content="https://claudelopez.com/wp-content/uploads/2022/04/Screenshot-2022-04-19-132327.png">
 <meta name="twitter:card" content="summary_large_image">
 
 <meta property="og:title" content="COVID-19 Explorer">
 <meta property="og:description" content="The COVID-19 Community Explorer provides a simple way to explore geographic clusters of communities affected by the pandemic and their socioeconomic, demographic, and health-related features">
-<meta property="og:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
-<meta property="og:image:url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
-<meta property="og:image:secure_url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
+<meta property="og:image" content="https://claudelopez.com/wp-content/uploads/2022/04/Screenshot-2022-04-19-132327.png">
+<meta property="og:image:url" content="https://claudelopez.com/wp-content/uploads/2022/04/Screenshot-2022-04-19-132327.png">
+<meta property="og:image:secure_url" content="https://claudelopez.com/wp-content/uploads/2022/04/Screenshot-2022-04-19-132327.png">
 <meta property="og:url" content="https://miresearch.github.io/COVID19-Community-Explorer/">
 </head>
 
